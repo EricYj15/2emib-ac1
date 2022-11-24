@@ -8,6 +8,14 @@
     </a>
 </p>
 
+## Print do APP
+
+<img width="200" src="https://cdn.discordapp.com/attachments/973720821900136479/1028810571342164020/unknown.png">
+<div>
+<img width="425" src="https://cdn.discordapp.com/attachments/819908302107705358/1045147771646267433/image.png">
+<img width="425" src="https://cdn.discordapp.com/attachments/819908302107705358/1045147700196290640/image.png">
+</div>
+
 # Betta Net
 Notícias fresquinhas, venha nos conhecer!
 ## Autores
@@ -17,10 +25,3 @@ Notícias fresquinhas, venha nos conhecer!
 - Henrico Vieira
 - Leandro Guarido
 - Eric Yuji
-## Print do APP
-
-<img width="200" src="https://cdn.discordapp.com/attachments/973720821900136479/1028810571342164020/unknown.png">
-<div>
-<img width="425" src="https://cdn.discordapp.com/attachments/819908302107705358/1045147771646267433/image.png">
-<img width="425" src="https://cdn.discordapp.com/attachments/819908302107705358/1045147700196290640/image.png">
-</div>
