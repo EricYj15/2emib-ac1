@@ -19,3 +19,5 @@ Notícias fresquinhas, venha nos conhecer!
 - Eric Yuji
 ## Print do APP
 <img src="https://cdn.discordapp.com/attachments/973720821900136479/1028810571342164020/unknown.png">
+<img src="https://cdn.discordapp.com/attachments/819908302107705358/1045147771646267433/image.png">
+<img src="https://cdn.discordapp.com/attachments/819908302107705358/1045147700196290640/image.png">
