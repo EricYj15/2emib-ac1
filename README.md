@@ -1,5 +1,3 @@
-<div>
-
 ![GitHub](https://img.shields.io/github/license/LuisFer2005Pg/2emib-ac1)
 
 <p>
@@ -9,7 +7,6 @@
             alt="CSS válido!" />
     </a>
 </p>
-</div>
 
 # Betta Net
 Notícias fresquinhas, venha nos conhecer!
