@@ -8,8 +8,8 @@
     </a>
 </p>
 
-# Betta Site
-Um site de notícias do mundo da tecnologia
+# Betta Net
+Notícias fresquinhas, venha nos conhecer!
 ## Autores
 - Luis Fernando Picarelli
 - Fabricio Bettarello
